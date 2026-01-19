@@ -1,0 +1,7 @@
+{
+"label":"File Manager",
+"icon":"filemanager.png",
+"iconsel":"filemanager.png",
+"launch":"launch.sh",
+"description":"DinguxCmder"
+}

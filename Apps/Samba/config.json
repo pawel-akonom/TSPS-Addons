@@ -1,0 +1,7 @@
+{
+"label":"Samba Server",
+"icon":"samba.png",
+"iconsel":"samba.png",
+"launch":"samba-server.sh",
+"description":"Samba Server"
+}

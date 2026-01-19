@@ -1,0 +1,27 @@
+{
+  "label": "N. SNES",
+  "icon": "../_theme/ic-sfc.png",
+  "background": "../_theme/bg-fc.png",
+  "themecolor": "00FF88",
+  "launch": "launch.sh",
+  "rompath": "../../Roms/SFC",
+  "imgpath": "../../Imgs/SFC",
+  "useswap": 0,
+  "shortname": 0,
+  "extlist": "sfc|smc|fig|bs|st|zip|7z",
+  "hidebios": 1,
+  "launchlist": [
+    {
+      "name": "SNES9x",
+      "launch": "snes9x.sh"
+    },
+    {
+      "name": "SNES9X2002",
+      "launch": "snes9x2002.sh"
+    },
+    {
+      "name": "SNES9X2005",
+      "launch": "snes9x2005.sh"
+    }
+  ]
+}

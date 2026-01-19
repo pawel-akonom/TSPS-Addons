@@ -1,0 +1,14 @@
+{
+  "label": "DOS",
+  "label.ch.lang":"DOS",
+  "icontop":"../_theme/ic-dos.png",
+  "icon":"",
+  "background":"../_theme/bg-easyrpg.png",
+  "launch":"launch.sh",
+  "themecolor":"64A8BD",
+  "rompath": "../../Roms/DOS",
+  "imgpath": "../../Imgs/DOS",
+  "useswap": 0,
+  "shortname": 0,
+  "hidebios": 1
+}
