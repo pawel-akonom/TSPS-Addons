@@ -1,9 +1,9 @@
 {
-  "label": "N. SNES",
+  "label": "SNES",
   "icon": "../_theme/ic-sfc.png",
-  "background": "../_theme/bg-fc.png",
+  "background": "../_theme/bg-sfc.png",
   "themecolor": "00FF88",
-  "launch": "launch.sh",
+  "launch": "snes9x2005.sh",
   "rompath": "../../Roms/SFC",
   "imgpath": "../../Imgs/SFC",
   "useswap": 0,
@@ -22,6 +22,14 @@
     {
       "name": "SNES9X2005",
       "launch": "snes9x2005.sh"
+    },
+    {
+      "name": "SNES9X2005PLUS",
+      "launch": "snes9x2005_plus.sh"
+    },
+    {
+      "name": "SNES9X2010",
+      "launch": "snes9x2010.sh"
     }
   ]
 }
