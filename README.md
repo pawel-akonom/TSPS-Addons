@@ -1,5 +1,5 @@
 # TSPS-Addons
-Additional emulators, applications, tools and features for Trimui Smart Pro S
+Additional emulators, applications, tools and features for Trimui Smart Pro S [TG5050] with Stock OS
 
 # Installation
 
