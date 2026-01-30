@@ -14,9 +14,10 @@ Copy all files and directories to the micro SD card for Trimui Smart Pro S
 
 ## Applications
 
-- EmuDrop: Added EmuDrop v2.1.5. It has been compiled with pyinstaller and python 3.10 with all required libraries to one single binary
+- EmuDrop : Added EmuDrop v2.1.5. It has been compiled with pyinstaller and python 3.10 with all required libraries to one single binary
 - File Manager : Added DinguxCommander file manager
 - Samba : Added samba server for copying data via Windows file share. Application show the server name, server IP and the credentials for login
+- Scretch : Added Screech application - game boxart scraper
 
 ## Command line tools
 
