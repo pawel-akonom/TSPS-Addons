@@ -1,0 +1,6 @@
+{
+    "label": "Screech",
+    "icon": "icon.png",
+    "launch": "launch.sh",
+    "description": "Game cover scraper"
+}
